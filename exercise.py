@@ -17,7 +17,7 @@
 #
 # population = 9000000
 #
-# print("City:", city.capitalize(), "(", city.isidentifier(),")")
+# print("City:", city.capitalize(), "(", city.isidentifier(), ")")
 #
 # print("Population:", population)
 
